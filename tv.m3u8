@@ -10,8 +10,6 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master1080p.m3u8
 #EXTINF:-1 tvg-name="CBC Edmonton" group-title="NEWS",CBC Edmonton
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="NEWS",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Global News Edmonton" group-title="NEWS" tvg-id="Global News Edmonton",Global News Edmonton
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf2de1fba5f0007e47d9c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc405c3a-0f93-4c4b-a3f6-a76200a14712
 
