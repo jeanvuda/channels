@@ -10,11 +10,11 @@ https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master1080p.m3u
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-name="Global News Edmonton" group-title="NEWS" tvg-id="Global News Edmonton",Global News Edmonton
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf2de1fba5f0007e47d9c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc405c3a-0f93-4c4b-a3f6-a76200a14712
-#EXTINF:0, group-title="NEWS",Yahoo Finance 
+#EXTINF:0, tvg-name="Yahoo Finance" group-title="NEWS",Yahoo Finance 
 https://yahoofinance-localnow.amagi.tv/playlist.m3u8
-#EXTINF:0,group-title="NATURE",Wild Earth TV
+#EXTINF:0, tvg-name="Wild Earth" group-title="NATURE",Wild Earth TV
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
-#EXTINF:0,group-title="MUSIC",California Music Channel
+#EXTINF:0, tvg-name="California Music Channel" group-title="MUSIC",California Music Channel
 https://cmc-ono.amagi.tv/playlist.m3u8
 
 
