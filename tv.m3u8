@@ -2,7 +2,7 @@
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg",FOX NewsNOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-EXTINF:-1 tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS",AL JAZEERA US
+EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS",AL JAZEERA US
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="NEWS",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
