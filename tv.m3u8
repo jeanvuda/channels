@@ -1,10 +1,8 @@
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-id="CNN.us" group-title="NEWS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg",FOX NewsNOW
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",AL JAZEERA US-1
-https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS",AL JAZEERA US-2
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+EXTINF:-1 tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS",AL JAZEERA US
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="CBCNEWS Edmonton" group-title="NEWS",CBCNEWS Edmonton HD
 https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master1080p.m3u8
@@ -12,4 +10,9 @@ https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master1080p.m3u
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-name="Global News Edmonton" group-title="NEWS" tvg-id="Global News Edmonton",Global News Edmonton
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf2de1fba5f0007e47d9c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc405c3a-0f93-4c4b-a3f6-a76200a14712
+#EXTINF:0,Yahoo Finance 
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Wild Earth TV
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+
 
