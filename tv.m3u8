@@ -18,5 +18,6 @@ https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="California Music Channel" tvg-id="CMC" group-title="MUSIC",California Music Channel
 https://cmc-ono.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Global News National" group-title="NEWS" tvg-id="Global News Edmonton",Global News Edmonton
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 
