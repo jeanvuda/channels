@@ -8,6 +8,8 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-name="CBCNews Edmonton" group-title="NEWS",CBCNews Edmonton HD
 https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master1080p.m3u8
+#EXTINF:-1 tvg-name="CBCNews Live" group-title="NEWS",CBCNews Live
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master1080p.m3u8
 #EXTINF:-1 tvg-name="CBC Edmonton" group-title="NEWS",CBC Edmonton
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 tvg-name="Global News Edmonton" group-title="NEWS" tvg-id="Global News Edmonton",Global News Edmonton
