@@ -1,25 +1,25 @@
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" tvg-id="CNN.us" group-title="NEWS",CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CNN.png" group-title="NEWS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" group-title="NEWS",Fox News Now
+#EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="NEWS",Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" tvg-id="AlJazeera.qa@English" group-title="NEWS",Al Jazeera English
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="NEWS",Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
-#EXTINF:-1 tvg-name="CBC News Edmonton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="NEWS",CBC News Edmonton
+#EXTINF:-1 tvg-name="CBC News Edmonton" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" group-title="NEWS",CBC News Edmonton
 https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master.m3u8
 
-#EXTINF:-1 tvg-name="CBC News Explore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="NEWS",CBC News Explore
+#EXTINF:-1 tvg-name="CBC News Explore" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" group-title="NEWS",CBC News Explore
 https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 
-#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png" group-title="NEWS",CBC News Network
+#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="NEWS",CBC News Network
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-name="Global News Edmonton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Global_News.svg" group-title="NEWS",Global News Edmonton
+#EXTINF:-1 tvg-name="Global News Edmonton" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-news-ca.png" group-title="NEWS",Global News Edmonton
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/live-audio_1=96000-video=2499968.m3u8
 
-#EXTINF:-1 tvg-name="Global News National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Global_News.svg" group-title="NEWS",Global News National
+#EXTINF:-1 tvg-name="Global News National" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-news-ca.png" group-title="NEWS",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 
 #EXTINF:-1 tvg-name="CityNews Edmonton" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="NEWS",CityNews Edmonton
@@ -34,16 +34,16 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 #EXTINF:-1 tvg-name="CityNews Vancouver" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="NEWS",CityNews Vancouver
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 
-#EXTINF:-1 tvg-name="CPAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/512px-2016_CPAC_logo.svg.png" group-title="NEWS",CPAC
+#EXTINF:-1 tvg-name="CPAC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cpac-ca.png" group-title="NEWS",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Yahoo Finance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo.svg" group-title="NEWS",Yahoo Finance
+#EXTINF:-1 tvg-name="Yahoo Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="NEWS",Yahoo Finance
 https://yahoofinance-localnow.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="WildEarth" tvg-logo="https://i.imgur.com/8QZQZQZ.png" group-title="NATURE",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="California Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/California_Music_Channel_Logo_%28cropped%29.png/512px-California_Music_Channel_Logo_%28cropped%29.png" group-title="MUSIC",California Music Channel
+#EXTINF:-1 tvg-name="California Music Channel" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="MUSIC",California Music Channel
 https://cmc-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="MUSIC",Stingray Hit List
@@ -55,8 +55,8 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/PZhxyIT.png" group-title="MUSIC",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="COMEDY",Comedy Central
-https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
-
 #EXTINF:-1 tvg-name="British Comedy" tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png" group-title="COMEDY",British Comedy
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
+
+#EXTINF:-1 tvg-name="Isai Aruvi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Isai_Aruvi_logo.png/220px-Isai_Aruvi_logo.png" group-title="TAMIL",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
