@@ -7,11 +7,13 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="NEWS",Al Jazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-name="CBCNews Edmonton" group-title="NEWS",CBCNews Edmonton HD
-https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master1080p.m3u8
+https://amagi-streams.akamaized.net/hls/live/2113387/cbcedmonton/master.m3u8
 #EXTINF:-1 tvg-name="CBCNews Live" group-title="NEWS",CBCNews Live
-https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master1080p.m3u8
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 #EXTINF:-1 tvg-name="CBC Edmonton" group-title="NEWS",CBC Edmonton
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+#EXTINF:-1 tvg-name="CBC News International" group-title="NEWS",CBC News International
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 #EXTINF:-1 tvg-name="Global News Edmonton" group-title="NEWS" tvg-id="Global News Edmonton",Global News Edmonton
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 tvg-name="Yahoo Finance" tvg-id="Yahoo Finance" group-title="NEWS",Yahoo Finance 
@@ -22,4 +24,3 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 https://cmc-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Global News National" group-title="NEWS" tvg-id="Global News National",Global News National
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-
