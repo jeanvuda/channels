@@ -1,6 +1,15 @@
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CNN.png" group-title="NEWS",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CNN.png" group-title="NEWS",CNN (Alt)
+https://tvsen6.aynaott.com/cnn/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CNN.png" group-title="NEWS",CNN en Español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CNN.png" group-title="NEWS",CNN Originals
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Fox News Now" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="NEWS",Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
