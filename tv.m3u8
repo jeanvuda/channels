@@ -16,6 +16,9 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="NEWS",Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/200px-CNA_new_logo.svg.png" group-title="NEWS",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 #EXTINF:-1 tvg-name="CP24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CP24_logo.svg/512px-CP24_logo.svg.png" group-title="NEWS",CP24
 https://tvsen6.aynaott.com/cp24/index.m3u8
 
